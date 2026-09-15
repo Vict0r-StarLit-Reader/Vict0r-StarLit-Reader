@@ -97,8 +97,8 @@ Passionate about building scalable software solutions, exploring AI automation, 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vict0r-StarLit-Reader&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Victor's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vict0r-StarLit-Reader&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
+  <img height="180" src="vict0r-star-lit-reader-52d0hkgz1-vict0r-starlit-reader.vercel.app" alt="Victor's GitHub Stats" />
+  <img height="180" src="vict0r-star-lit-reader-52d0hkgz1-vict0r-starlit-reader.vercel.app" alt="Most Used Languages" />
 </div>
 
 ---
